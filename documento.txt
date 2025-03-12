@@ -1,1 +1,2 @@
 File v2, con feature 42, in branch feature42
+Aggiunta
